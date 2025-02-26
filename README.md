@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Friedemann
-- 👀 I’m interested in Techstuff like everybody else on this platform
-- 🌱 I’m currently learning next.js
+- 👀 I’m interested in Techstuff like everybody here
+- 🌱 I’m currently learning go
 - 🇨🇭 Living in Switzerland
 
 <!---
